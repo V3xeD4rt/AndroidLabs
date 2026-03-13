@@ -83,7 +83,7 @@
 ### 1. `Book.kt`
 
 ```kotlin
-package com.example.myfirstapp.utils
+package com.example.laba_1.utils
 
 data class Book(
     val title: String,
