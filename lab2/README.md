@@ -124,7 +124,7 @@ fun applyDiscount(price: Double, discountPercent: Double): Double {
 ### 3. `CurrencyConverter.kt`
 
 ```kotlin
-package com.example.myfirstapp.utils
+package com.example.laba_1.utils
 
 class CurrencyConverter(
     private val usdRate: Double,
