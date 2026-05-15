@@ -73,6 +73,7 @@
 
 ### 1. activity_main.xml
 
+```kotlin
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -170,7 +171,7 @@
 ```
 
 ### 2. item_task.xml
-
+```kotlin
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -345,7 +346,7 @@ class MainActivity : AppCompatActivity() {
 ```
 
 ### 4. TaskAdapter.kt
-```
+```kotlin
 package com.example.todoapp
 
 import android.graphics.Paint
